@@ -1,0 +1,48 @@
+{
+  "source": "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/UserProfile.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Personal Information",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "First Name",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last Name",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Logout",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 33
+        }
+      }
+    ]
+  },
+  "version": 1
+}

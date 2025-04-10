@@ -1,0 +1,188 @@
+{
+  "" : {
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Restaurant-master.dia",
+    "emit-module-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Restaurant-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Restaurant-master-emit-module.dia",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Restaurant-master.swiftdeps"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Font.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Font.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Font.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Font.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Font.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Font.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Font.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Font.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Font~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Core Data/Dish+CoreDataClass.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataClass.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataClass.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataClass.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataClass.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataClass.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Core Data/Dish+CoreDataProperties.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataProperties.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataProperties.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataProperties.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataProperties.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Dish+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Core Data/FetchedObjects.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/FetchedObjects.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/FetchedObjects.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/FetchedObjects.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/FetchedObjects.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/FetchedObjects.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/FetchedObjects.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/FetchedObjects.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/FetchedObjects~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Core Data/Persistence.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Persistence.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Persistence.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Persistence.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Persistence.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Persistence.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Persistence.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Persistence.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Persistence~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Models/MenuItem.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItem.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItem.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItem.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItem.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItem.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItem.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItem.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItem~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Models/MenuList.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuList.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuList.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuList.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuList.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuList.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuList.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuList.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuList~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/RestaurantApp.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/RestaurantApp.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/RestaurantApp.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/RestaurantApp.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/RestaurantApp.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/RestaurantApp.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/RestaurantApp.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/RestaurantApp.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/RestaurantApp~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Styles/Color.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Color.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Color.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Color.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Color.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Color.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Color.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Color.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Color~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Utilities/Utility.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Utility.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Utility.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Utility.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Utility.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Utility.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Utility.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Utility.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Utility~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/Header.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Header.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Header.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Header.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Header.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Header.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Header.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Header.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Header~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/Hero.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Hero.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Hero.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Hero.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Hero.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Hero.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Hero.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Hero.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Hero~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/Home.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Home.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Home.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Home.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Home.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Home.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Home.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Home.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Home~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/Menu.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Menu.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Menu.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Menu.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Menu.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Menu.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Menu.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Menu.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Menu~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/MenuItemDetails.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItemDetails.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItemDetails.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItemDetails.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItemDetails.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItemDetails.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItemDetails.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItemDetails.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/MenuItemDetails~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/Onboarding.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Onboarding.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Onboarding.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Onboarding.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Onboarding.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Onboarding.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Onboarding.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Onboarding.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/Onboarding~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/UserProfile.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/UserProfile.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/UserProfile.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/UserProfile.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/UserProfile.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/UserProfile.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/UserProfile.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/UserProfile.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/UserProfile~partial.swiftmodule"
+  },
+  "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/build/Restaurant.build/Debug-iphonesimulator/Restaurant.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
