@@ -1,0 +1,40 @@
+{
+  "source": "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/Onboarding.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "First Name",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last Name",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Register",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 54
+        }
+      }
+    ]
+  },
+  "version": 1
+}

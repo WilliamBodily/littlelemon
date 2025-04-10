@@ -1,0 +1,16 @@
+{
+  "source": "/Users/William/Work/iOS/Meta iOS Developer/Course 11/Module 02/littlelemon/Restaurant/Restaurant/Views/Menu.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Search menu",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}
