@@ -23,20 +23,12 @@ struct MenuBreakdown: View {
                 .padding([.leading, .trailing])
             HStack {
                 Button {
-                    print("Toggling starters")
-                    print("filterOnStarters: \(filterOnStarters)")
                     filterOnStarters.toggle()
                     if (filterOnStarters) {
                         toggleFilterOn("starters")
                     } else {
                         toggleFilterOn("")
                     }
-                    print("Starters toggled")
-                    print("filterOnStarters: \(filterOnStarters)")
-                    print("filterOnMains: \(filterOnMains)")
-                    print("filterOnDesserts: \(filterOnDesserts)")
-                    print("filterOnDrinks: \(filterOnDrinks)")
-                    
                 } label: {
                     Text("Starters")
                         .font(Font.cfLLSectionCategories)
@@ -44,9 +36,6 @@ struct MenuBreakdown: View {
                         .frame(maxWidth: 70, maxHeight: 8)
                         .padding()
                 }
-//                .onTapGesture {
-//                    Self.backgroundColor(Color(hex: Color.scLLGray))
-//                }
                 .buttonStyle(PlainButtonStyle())
                 .buttonStyle(.bordered)
                 .background(Color(hex: Color.scLLLiteGray))
@@ -110,9 +99,11 @@ struct MenuBreakdown: View {
                 .cornerRadius(8)
                 .controlSize(.large)
             }
+            .toggleStyle(MyToggleStyle())
             .padding([.leading, .trailing])
             .padding([.top, .bottom,], 10)
         }
+        .toggleStyle(MyToggleStyle())
     }
     
     func toggleFilterOn(_ filterOn: String) {
