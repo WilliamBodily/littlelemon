@@ -29,7 +29,6 @@ struct Menu: View {
                 HStack {
                     Image(systemName: "magnifyingglass.circle")
                         .symbolEffect(.wiggle.up.byLayer, options: .nonRepeating)
-                        .frame(width: .infinity, height: .infinity, alignment: .topTrailing)
                         .foregroundColor(Color(hex: Color.pcLLYellow))
                         .padding(.leading, 6)
                         .padding(.bottom)
@@ -102,7 +101,6 @@ struct Menu: View {
                 do {
                     let decoder = JSONDecoder()
                     let menuList = try decoder.decode(MenuList.self, from: data)
-                    print("Total dishes in menuList: \(menuList.menu.count)")
                     for menuItem in menuList.menu {
                         let dish = Dish(context: viewContext)
                         dish.id = menuItem.id
@@ -137,11 +135,6 @@ struct Menu: View {
     }
     
     func buildPredicate() -> NSPredicate {
-        print("Building Predicates...")
-        print("filterOnStarters: \(filterOnStarters)")
-        print("filterOnMains: \(filterOnMains)")
-        print("filterOnDesserts: \(filterOnDesserts)")
-        print("filterOnDrinks: \(filterOnDrinks)")
         let search = (filterOnSearchText.isEmpty) ? NSPredicate(value: true) : NSPredicate(format: "title CONTAINS[cd] %@", filterOnSearchText)
         let starters = filterOnStarters ? NSPredicate(format: "category == %@", "starters") : NSPredicate(value: true)
         let mains = filterOnMains ? NSPredicate(format: "category == %@", "mains") : NSPredicate(value: true)

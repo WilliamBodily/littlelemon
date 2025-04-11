@@ -27,7 +27,6 @@ struct Header: View {
             }
         }
         .frame(maxHeight: 60)
-        .padding(.bottom)
     }
 }
 
